@@ -1,0 +1,59 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+	
+	<title>Robots.txt | Jane White Photography</title>
+	
+      <meta name="keywords" http-equiv="keywords" content= "Jane White Photography,Weddings, family, children, pregnancy & baby photography,Glamour, model, event, & portrait, photography,Photo retouching, Photoshop, enhancement, restoration, collage & manipulation,Commercial, advertising, product & stock photography,Bay of Plenty, Papamoa, Mount Maunganui, Tauranga, Katikati, Waihi, Whakatane, Rotorua,Waikato,Auckland,internationally "/>
+      <meta name="description" http-equiv="description" content="As a photographer I enjoy weddings and feel honoured when booked for a wedding that I have been asked to photographically capture a very special day filled with very special moments.  My wedding photography	 style is a mix of photojournalistic, candid & traditional. My goal is to capture the images of your day in a creative yet unobtrusive style. Your memories will be preserved in pictures that you will treasure forever."/>
+    
+	<link rel="stylesheet" type="text/css" href="/assets/css/style.css" />
+	<script src="/assets/js/library.js" type="text/javascript" charset="utf-8"></script>
+	
+	
+</head>
+
+<body>
+
+	<div id="wrap">
+		
+		<div id="header">
+			<h1>Jane White Photography</h1>
+		</div>
+		
+		<ul id="navigation">
+			<li><a href="/contact">Contact</a></li>
+			<li><a href="/links">Links</a></li>
+			<li><a href="/testimonials">Testimonials</a></li>
+			<li><a href="/pricing-info">Pricing &amp; Info</a></li>
+			<li><a href="/portfolio">Portfolio</a></li>
+			<li><a href="/">Home</a></li>
+		</ul>
+		
+		<div id="container">
+			<h1>Page Not Found</h1>
+
+<p>I'm sorry,  the page you are looking for could not be found.</p>
+
+<p><a href="/">Jane White Photography</a></p>		</div>
+		
+		<div id="footer">
+			<span>Produced by <a class="a" href="mailto:jessmckenzie@ihug.co.nz?subject=Jane White Photography" target="_blank">Jess McKenzie</a></span>
+			&copy; 2009 <a href="/">Jane White Photography</a>
+		</div>
+		
+	</div>
+	<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-8597394-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+</body>
+</html>

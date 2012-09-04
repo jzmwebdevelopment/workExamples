@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+<url>
+  <loc>http://www.janewhitephotography.com/</loc>
+  <priority>1.00</priority>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.janewhitephotography.com/contact</loc>
+  <priority>0.80</priority>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.janewhitephotography.com/links</loc>
+  <priority>0.80</priority>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.janewhitephotography.com/testimonials</loc>
+  <priority>0.80</priority>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.janewhitephotography.com/pricing-info</loc>
+  <priority>0.80</priority>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.janewhitephotography.com/portfolio</loc>
+  <priority>0.80</priority>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.janewhitephotography.com/portfolio/wedding-one</loc>
+  <priority>0.64</priority>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.janewhitephotography.com/portfolio/wedding-two</loc>
+  <priority>0.64</priority>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.janewhitephotography.com/portfolio/wedding-three</loc>
+  <priority>0.64</priority>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.janewhitephotography.com/portfolio/photomanipulation</loc>
+  <priority>0.64</priority>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.janewhitephotography.com/portfolio/portraits</loc>
+  <priority>0.64</priority>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.janewhitephotography.com/portfolio/commercial</loc>
+  <priority>0.64</priority>
+  <changefreq>daily</changefreq>
+</url>
+</urlset>
